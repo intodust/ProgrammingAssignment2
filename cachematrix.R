@@ -6,7 +6,7 @@
 ## the inverse and sets to cache and returns the value.
 
 
-## makcecacheMatrix takes matrix as argument, and returns list of functions
+## makcecacheMatrix takes matrix as argument, and returns list of functions.
 
 
 makeCacheMatrix <- function(x = matrix()) {
